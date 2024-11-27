@@ -18,18 +18,18 @@ criaCartao(
 
 criaCartao(
     'BTS',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual o primeiro membro do BTS ao ir para o exercito?
+    'Kim Seok-Jin'
+    
 )
 
 criaCartao(
     'BTS',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Quando foi debutado do grupo BTS?
+    '2013'
 )
 
 criaCartao(
     'BTS',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    '
 )
